@@ -83,19 +83,16 @@ public class DeliverPage {
     }
 
     public String getAlertField(String field) {
-        switch (field) {
-            case "method": {
-                Driver.visibilityElement(deliverMap.msgAlertMethod);
-                return deliverMap.msgAlertMethod.getText();
-            }
-            case "cnh": {
-                Driver.visibilityElement(deliverMap.msgAlertCnh);
-                return deliverMap.msgAlertCnh.getText();
-            }
-            default: {
-                Driver.visibilityElement(deliverMap.msgAlertField(field));
-                return deliverMap.msgAlertField(field).getText();
-            }
+
+        if (field.equalsIgnoreCase("method")) {
+            Driver.visibilityElement(deliverMap.msgAlertMethod);
+            return deliverMap.msgAlertMethod.getText();
+        } else if (field.equalsIgnoreCase("cnh")) {
+            Driver.visibilityElement(deliverMap.msgAlertCnh);
+            return deliverMap.msgAlertCnh.getText();
+        } else {
+            Driver.visibilityElement(deliverMap.msgAlertField(field));
+            return deliverMap.msgAlertField(field).getText();
         }
     }
 }
