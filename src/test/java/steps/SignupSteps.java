@@ -27,7 +27,7 @@ public class SignupSteps {
 
     @After
     public void tearDown() {
-        Driver.getDriver().close();
+        //Driver.getDriver().quit();
     }
 
     @Dado("que esteja na pagina da BugerEats")
