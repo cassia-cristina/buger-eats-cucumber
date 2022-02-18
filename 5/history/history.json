@@ -1,0 +1,233 @@
+{
+  "1f9b6d3cb97cae1d73336c0c511fdd82" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96258993165031bb",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/96258993165031bb",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218980331,
+        "stop" : 1645218980705,
+        "duration" : 374
+      }
+    } ]
+  },
+  "8b4b5d5d8217ba875b31e40c78b2211f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2eae9ec1c009f81e",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/2eae9ec1c009f81e",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218979609,
+        "stop" : 1645218979963,
+        "duration" : 354
+      }
+    } ]
+  },
+  "3d4f833a5a1fc07a5937509b34e26c74" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1b60a72c7eb50963",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/1b60a72c7eb50963",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218977773,
+        "stop" : 1645218978145,
+        "duration" : 372
+      }
+    } ]
+  },
+  "b3cd37272bb1b890cd0c0e7180b5a47f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bbc86ae73c8975c",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/7bbc86ae73c8975c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218977401,
+        "stop" : 1645218977767,
+        "duration" : 366
+      }
+    } ]
+  },
+  "6d6c9c2f6676992535b7a06503e52d5d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "42a5cbe0bcf91692",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/42a5cbe0bcf91692",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218979220,
+        "stop" : 1645218979606,
+        "duration" : 386
+      }
+    } ]
+  },
+  "7c79c644658003785b20dd3bf10bfbe2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "439acecd824f966d",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/439acecd824f966d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218976872,
+        "stop" : 1645218977385,
+        "duration" : 513
+      }
+    } ]
+  },
+  "ca6a58e851cb503d5bfa190d3e8d44a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40a53d8c49a8f180",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/40a53d8c49a8f180",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218948577,
+        "stop" : 1645218976788,
+        "duration" : 28211
+      }
+    } ]
+  },
+  "7738b8ceed7aa62c2a61f3834fcd1911" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60954e46a9880081",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/60954e46a9880081",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218978147,
+        "stop" : 1645218978476,
+        "duration" : 329
+      }
+    } ]
+  },
+  "c88ad90a10a9b0cbdc835a5d9ccf97d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "22e6f258c0eb54a2",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/22e6f258c0eb54a2",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218978846,
+        "stop" : 1645218979218,
+        "duration" : 372
+      }
+    } ]
+  },
+  "f48496c83bcd5b970e40d0a8bf637fa5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ad7297bc78cdb47a",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/ad7297bc78cdb47a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218979966,
+        "stop" : 1645218980330,
+        "duration" : 364
+      }
+    } ]
+  },
+  "8d0216488cd26c2ed4367abf2fa8297c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e399997927726916",
+      "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/e399997927726916",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1645218978478,
+        "stop" : 1645218978840,
+        "duration" : 362
+      }
+    } ]
+  }
+}

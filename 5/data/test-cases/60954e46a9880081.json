@@ -1,0 +1,62 @@
+{
+  "uid" : "60954e46a9880081",
+  "name" : "Enviar dados de cadastro com nome nao informado",
+  "fullName" : "Validar cadastro de entregador.Enviar dados de cadastro com nome nao informado",
+  "historyId" : "7738b8ceed7aa62c2a61f3834fcd1911",
+  "time" : {
+    "start" : 1645218978147,
+    "stop" : 1645218978476,
+    "duration" : 329
+  },
+  "status" : "broken",
+  "statusMessage" : "java.lang.NullPointerException",
+  "statusTrace" : "java.lang.NullPointerException\n\tat steps.SignupSteps.tearDown(SignupSteps.java:30)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enviar dados de cadastro com nome nao informado"
+  }, {
+    "name" : "suite",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "host",
+    "value" : "fv-az131-486"
+  }, {
+    "name" : "thread",
+    "value" : "2820@fv-az131-486.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "60954e46a9880081.json",
+  "parameterValues" : [ ]
+}

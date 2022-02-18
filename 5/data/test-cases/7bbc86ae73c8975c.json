@@ -1,0 +1,62 @@
+{
+  "uid" : "7bbc86ae73c8975c",
+  "name" : "Enviar dados de cadastro com cpf invalido",
+  "fullName" : "Validar cadastro de entregador.Enviar dados de cadastro com cpf invalido",
+  "historyId" : "b3cd37272bb1b890cd0c0e7180b5a47f",
+  "time" : {
+    "start" : 1645218977401,
+    "stop" : 1645218977767,
+    "duration" : 366
+  },
+  "status" : "broken",
+  "statusMessage" : "java.lang.NullPointerException",
+  "statusTrace" : "java.lang.NullPointerException\n\tat steps.SignupSteps.tearDown(SignupSteps.java:30)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enviar dados de cadastro com cpf invalido"
+  }, {
+    "name" : "suite",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "host",
+    "value" : "fv-az131-486"
+  }, {
+    "name" : "thread",
+    "value" : "2820@fv-az131-486.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7bbc86ae73c8975c.json",
+  "parameterValues" : [ ]
+}

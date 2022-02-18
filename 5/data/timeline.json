@@ -1,0 +1,156 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az131-486",
+    "children" : [ {
+      "name" : "2820@fv-az131-486.main(1)",
+      "children" : [ {
+        "name" : "Enviar dados de cadastro com cpf nao informado",
+        "uid" : "e399997927726916",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218978478,
+          "stop" : 1645218978840,
+          "duration" : 362
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com email nao informado",
+        "uid" : "22e6f258c0eb54a2",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218978846,
+          "stop" : 1645218979218,
+          "duration" : 372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com metodo nao informado",
+        "uid" : "ad7297bc78cdb47a",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218979966,
+          "stop" : 1645218980330,
+          "duration" : 364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com cep nao informado",
+        "uid" : "42a5cbe0bcf91692",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218979220,
+          "stop" : 1645218979606,
+          "duration" : 386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com cpf invalido",
+        "uid" : "7bbc86ae73c8975c",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218977401,
+          "stop" : 1645218977767,
+          "duration" : 366
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com numero nao informado",
+        "uid" : "2eae9ec1c009f81e",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218979609,
+          "stop" : 1645218979963,
+          "duration" : 354
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com nome nao informado",
+        "uid" : "60954e46a9880081",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218978147,
+          "stop" : 1645218978476,
+          "duration" : 329
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com cnh nao nao informada",
+        "uid" : "96258993165031bb",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218980331,
+          "stop" : 1645218980705,
+          "duration" : 374
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com email invalido",
+        "uid" : "1b60a72c7eb50963",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218977773,
+          "stop" : 1645218978145,
+          "duration" : 372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ao buscar CEP deve encontrar o endereco correto",
+        "uid" : "439acecd824f966d",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218976872,
+          "stop" : 1645218977385,
+          "duration" : 513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Enviar dados de cadastro com sucesso",
+        "uid" : "40a53d8c49a8f180",
+        "parentUid" : "812f5eae38815d97f3f91429b7ff9695",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645218948577,
+          "stop" : 1645218976788,
+          "duration" : 28211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "812f5eae38815d97f3f91429b7ff9695"
+    } ],
+    "uid" : "f02e60570a3fa4951de4074c9904e3b6"
+  } ],
+  "name" : "timeline"
+}

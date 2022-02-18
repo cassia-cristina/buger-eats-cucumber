@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 5,
+  "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 11,
+    "retry" : 0
+  }
+} ]
