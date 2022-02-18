@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "bcc63fc346d3cd41d29fed3d76cae5b5",
+    "name" : "Validar cadastro de entregador",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 11
+    }
+  } ]
+}

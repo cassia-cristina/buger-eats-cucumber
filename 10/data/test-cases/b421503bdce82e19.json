@@ -1,0 +1,123 @@
+{
+  "uid" : "b421503bdce82e19",
+  "name" : "Enviar dados de cadastro com sucesso",
+  "fullName" : "Validar cadastro de entregador.Enviar dados de cadastro com sucesso",
+  "historyId" : "ca6a58e851cb503d5bfa190d3e8d44a4",
+  "time" : {
+    "start" : 1645222338407,
+    "stop" : 1645222343137,
+    "duration" : 4730
+  },
+  "status" : "broken",
+  "statusMessage" : "invalid argument: File not found : buger-eats-cucumber/src/test/resources/images/cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az135-307', ip: '10.1.1.117', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.xWPmeu}, goog:chromeOptions: {debuggerAddress: localhost:33481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 15f65a027785e16ec123c7a256b679a0",
+  "statusTrace" : "org.openqa.selenium.InvalidArgumentException: invalid argument: File not found : buger-eats-cucumber/src/test/resources/images/cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az135-307', ip: '10.1.1.117', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.xWPmeu}, goog:chromeOptions: {debuggerAddress: localhost:33481}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 15f65a027785e16ec123c7a256b679a0\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)\n\tat org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)\n\tat com.sun.proxy.$Proxy20.sendKeys(Unknown Source)\n\tat pages.DeliverPage.uploadCnh(DeliverPage.java:54)\n\tat steps.SignupSteps.forSelecionadoUmArquivoParaAFotoCNH(SignupSteps.java:67)\n\tat ✽.for selecionado um arquivo para a foto CNH(file:///home/runner/work/buger-eats-cucumber/buger-eats-cucumber/src/test/resources/features/signup.feature:22)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enviar dados de cadastro com sucesso"
+  }, {
+    "name" : "suite",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "host",
+    "value" : "fv-az135-307"
+  }, {
+    "name" : "thread",
+    "value" : "2832@fv-az135-307.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 6,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "d4dff803033735fe",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/9//#testresult/d4dff803033735fe",
+        "status" : "broken",
+        "statusDetails" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az82-467', ip: '10.1.0.133', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.Xjl9Vg}, goog:chromeOptions: {debuggerAddress: localhost:35729}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f3853e9143bc0bc9eca588a372d4326f",
+        "time" : {
+          "start" : 1645221163296,
+          "stop" : 1645221181470,
+          "duration" : 18174
+        }
+      }, {
+        "uid" : "53505e14a051345c",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/8//#testresult/53505e14a051345c",
+        "status" : "broken",
+        "statusDetails" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az39-505', ip: '10.1.0.107', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.Gcez3p}, goog:chromeOptions: {debuggerAddress: localhost:38831}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9ed622e648708bc6b7dc11cb89ffd324",
+        "time" : {
+          "start" : 1645220890975,
+          "stop" : 1645220910075,
+          "duration" : 19100
+        }
+      }, {
+        "uid" : "ae041499e9c93c71",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/7//#testresult/ae041499e9c93c71",
+        "status" : "broken",
+        "statusDetails" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az131-486', ip: '10.1.0.222', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.BUcND2}, goog:chromeOptions: {debuggerAddress: localhost:38941}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b2910ef650b0bbf1394fe133b5172b58",
+        "time" : {
+          "start" : 1645220624434,
+          "stop" : 1645220631634,
+          "duration" : 7200
+        }
+      }, {
+        "uid" : "257cb938e9600893",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/6//#testresult/257cb938e9600893",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1645220413620,
+          "stop" : 1645220442533,
+          "duration" : 28913
+        }
+      }, {
+        "uid" : "40a53d8c49a8f180",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/40a53d8c49a8f180",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1645218948577,
+          "stop" : 1645218976788,
+          "duration" : 28211
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b421503bdce82e19.json",
+  "parameterValues" : [ ]
+}
