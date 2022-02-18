@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az131-486', ip: '10.1.0.222', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.BUcND2}, goog:chromeOptions: {debuggerAddress: localhost:38941}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b2910ef650b0bbf1394fe133b5172b58",
+      "children" : [ {
+        "name" : "Enviar dados de cadastro com sucesso",
+        "uid" : "ae041499e9c93c71",
+        "parentUid" : "8312d92af3d7ee33ed1d6109d8ed472f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645220624434,
+          "stop" : 1645220631634,
+          "duration" : 7200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8312d92af3d7ee33ed1d6109d8ed472f"
+    }, {
+      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az131-486', ip: '10.1.0.222', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.jtCLd7}, goog:chromeOptions: {debuggerAddress: localhost:46571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5844b4be1ec8fd06ef6199919a482600",
+      "children" : [ {
+        "name" : "Enviar dados de cadastro com cpf invalido",
+        "uid" : "b722297b5e5f82b2",
+        "parentUid" : "ad9a60f70b915747672c58875eeeea8f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645220633769,
+          "stop" : 1645220635126,
+          "duration" : 1357
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad9a60f70b915747672c58875eeeea8f"
+    }, {
+      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az131-486', ip: '10.1.0.222', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.5g2YyJ}, goog:chromeOptions: {debuggerAddress: localhost:46249}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 35bc5caef6b4a902dcc7bb33ff2e4935",
+      "children" : [ {
+        "name" : "Enviar dados de cadastro com email invalido",
+        "uid" : "221519ef316ae648",
+        "parentUid" : "0cf2ffb2fdb2dd854669a39499b68d60",
+        "status" : "broken",
+        "time" : {
+          "start" : 1645220635128,
+          "stop" : 1645220636488,
+          "duration" : 1360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0cf2ffb2fdb2dd854669a39499b68d60"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
