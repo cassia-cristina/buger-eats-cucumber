@@ -3,56 +3,56 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az83-158', ip: '10.1.0.145', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.qDdwWp}, goog:chromeOptions: {debuggerAddress: localhost:40027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6d72dd3be9bd895ac04f69568877a18f",
+      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az72-291', ip: '10.1.0.71', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.v3ofqu}, goog:chromeOptions: {debuggerAddress: localhost:42601}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ecc4df939b38cba4b7f469613c11d777",
       "children" : [ {
         "name" : "Enviar dados de cadastro com sucesso",
-        "uid" : "9d094e109d6f64d4",
-        "parentUid" : "f5bf6eba1c828cd6ff6c13ef82787879",
+        "uid" : "53cf07a60d179c82",
+        "parentUid" : "c761abad13222db5adc97b3e63eb675f",
         "status" : "broken",
         "time" : {
-          "start" : 1645225322572,
-          "stop" : 1645225327973,
-          "duration" : 5401
+          "start" : 1645226578216,
+          "stop" : 1645226583321,
+          "duration" : 5105
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "f5bf6eba1c828cd6ff6c13ef82787879"
+      "uid" : "c761abad13222db5adc97b3e63eb675f"
     }, {
-      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az83-158', ip: '10.1.0.145', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.WOHGl6}, goog:chromeOptions: {debuggerAddress: localhost:36249}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 84ed69c9951db1f1f3eb3764f4fd28e0",
+      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az72-291', ip: '10.1.0.71', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.nZJSwi}, goog:chromeOptions: {debuggerAddress: localhost:46735}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d8c309170fa9cab712dcdccfad27456a",
       "children" : [ {
         "name" : "Enviar dados de cadastro com cpf invalido",
-        "uid" : "da164c29d130da2b",
-        "parentUid" : "cb5bc531f3eb39904be7e64c32d94274",
+        "uid" : "8cfa4efe7f0bb5dc",
+        "parentUid" : "58da00c3fb5c99152bb3eadcf1c88071",
         "status" : "broken",
         "time" : {
-          "start" : 1645225330311,
-          "stop" : 1645225331781,
-          "duration" : 1470
+          "start" : 1645226585508,
+          "stop" : 1645226586926,
+          "duration" : 1418
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "cb5bc531f3eb39904be7e64c32d94274"
+      "uid" : "58da00c3fb5c99152bb3eadcf1c88071"
     }, {
-      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az83-158', ip: '10.1.0.145', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.TQkzBJ}, goog:chromeOptions: {debuggerAddress: localhost:42961}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ab0302fbba1baea3baf636ad3799f850",
+      "name" : "invalid argument: File not found : D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg\n  (Session info: headless chrome=98.0.4758.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'fv-az72-291', ip: '10.1.0.71', os.name: 'Linux', os.arch: 'amd64', os.version: '5.11.0-1028-azure', java.version: '11.0.14'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 98.0.4758.80, chrome: {chromedriverVersion: 98.0.4758.102 (273bf7ac8c90..., userDataDir: /tmp/.com.google.Chrome.cg0L8N}, goog:chromeOptions: {debuggerAddress: localhost:38121}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 42361e453ca175dbb45d9cd87d10255a",
       "children" : [ {
         "name" : "Enviar dados de cadastro com email invalido",
-        "uid" : "fc2eb9f2be9b9028",
-        "parentUid" : "8d7556e31a8752c2d968ed6e6efbd54a",
+        "uid" : "27009eac1a9800c5",
+        "parentUid" : "e13e4e102872f53f4a29ae8400511b74",
         "status" : "broken",
         "time" : {
-          "start" : 1645225331783,
-          "stop" : 1645225333214,
-          "duration" : 1431
+          "start" : 1645226586928,
+          "stop" : 1645226588289,
+          "duration" : 1361
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "8d7556e31a8752c2d968ed6e6efbd54a"
+      "uid" : "e13e4e102872f53f4a29ae8400511b74"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],

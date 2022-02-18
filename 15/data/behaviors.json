@@ -2,143 +2,143 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "Enviar dados de cadastro com sucesso",
-    "uid" : "9d094e109d6f64d4",
+    "uid" : "53cf07a60d179c82",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1645225322572,
-      "stop" : 1645225327973,
-      "duration" : 5401
+      "start" : 1645226578216,
+      "stop" : 1645226583321,
+      "duration" : 5105
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Ao buscar CEP deve encontrar o endereco correto",
-    "uid" : "7a728840347d7a70",
+    "uid" : "b222930da5fb8f93",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1645225328077,
-      "stop" : 1645225330307,
-      "duration" : 2230
+      "start" : 1645226583409,
+      "stop" : 1645226585505,
+      "duration" : 2096
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Enviar dados de cadastro com cpf invalido",
-    "uid" : "da164c29d130da2b",
+    "uid" : "8cfa4efe7f0bb5dc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1645225330311,
-      "stop" : 1645225331781,
-      "duration" : 1470
+      "start" : 1645226585508,
+      "stop" : 1645226586926,
+      "duration" : 1418
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Enviar dados de cadastro com email invalido",
-    "uid" : "fc2eb9f2be9b9028",
+    "uid" : "27009eac1a9800c5",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "broken",
     "time" : {
-      "start" : 1645225331783,
-      "stop" : 1645225333214,
-      "duration" : 1431
+      "start" : 1645226586928,
+      "stop" : 1645226588289,
+      "duration" : 1361
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Enviar dados de cadastro com nome nao informado",
-    "uid" : "f200e7f655c3dfa3",
+    "uid" : "7f4f3a9bd183f54a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1645225333216,
-      "stop" : 1645225334131,
-      "duration" : 915
+      "start" : 1645226588291,
+      "stop" : 1645226589158,
+      "duration" : 867
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Enviar dados de cadastro com cpf nao informado",
-    "uid" : "bf224bd832cdf585",
+    "uid" : "2f68ec7ce2e1da59",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1645225334133,
-      "stop" : 1645225335023,
-      "duration" : 890
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Enviar dados de cadastro com email nao informado",
-    "uid" : "4aa032e08c07261b",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1645225335025,
-      "stop" : 1645225335915,
-      "duration" : 890
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Enviar dados de cadastro com cep nao informado",
-    "uid" : "1d7e6f0c81ed97a2",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1645225335916,
-      "stop" : 1645225336770,
-      "duration" : 854
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Enviar dados de cadastro com numero nao informado",
-    "uid" : "ae353523c714b7b0",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1645225336772,
-      "stop" : 1645225337575,
-      "duration" : 803
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Enviar dados de cadastro com metodo nao informado",
-    "uid" : "5a874f37aea827e7",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1645225337576,
-      "stop" : 1645225338416,
+      "start" : 1645226589160,
+      "stop" : 1645226590000,
       "duration" : 840
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
-    "name" : "Enviar dados de cadastro com cnh nao nao informada",
-    "uid" : "5e6803910c9dfef7",
+    "name" : "Enviar dados de cadastro com email nao informado",
+    "uid" : "ae778b3a5e0cd6a9",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1645225338417,
-      "stop" : 1645225339216,
-      "duration" : 799
+      "start" : 1645226590002,
+      "stop" : 1645226590791,
+      "duration" : 789
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Enviar dados de cadastro com cep nao informado",
+    "uid" : "59085cbf8bb041fc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1645226590793,
+      "stop" : 1645226591579,
+      "duration" : 786
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Enviar dados de cadastro com numero nao informado",
+    "uid" : "789bf1502e07c6b6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1645226591581,
+      "stop" : 1645226592362,
+      "duration" : 781
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Enviar dados de cadastro com metodo nao informado",
+    "uid" : "1ae834923def3921",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1645226592364,
+      "stop" : 1645226593135,
+      "duration" : 771
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Enviar dados de cadastro com cnh nao nao informada",
+    "uid" : "f8b6f6d2b2dd3cc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1645226593137,
+      "stop" : 1645226593918,
+      "duration" : 781
     },
     "flaky" : false,
     "newFailed" : false,

@@ -7,6 +7,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 11,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 14,
   "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/14/",
   "reportName" : "Allure Report with history",
