@@ -1,0 +1,96 @@
+{
+  "uid" : "5189ef5c5716d66c",
+  "name" : "Enviar dados de cadastro com numero nao informado",
+  "fullName" : "Validar cadastro de entregador.Enviar dados de cadastro com numero nao informado",
+  "historyId" : "8b4b5d5d8217ba875b31e40c78b2211f",
+  "time" : {
+    "start" : 1645220918521,
+    "stop" : 1645220919308,
+    "duration" : 787
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enviar dados de cadastro com numero nao informado"
+  }, {
+    "name" : "suite",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-505"
+  }, {
+    "name" : "thread",
+    "value" : "2787@fv-az39-505.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "5afe784ff52b276d",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/7//#testresult/5afe784ff52b276d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1645220640043,
+          "stop" : 1645220641026,
+          "duration" : 983
+        }
+      }, {
+        "uid" : "19a9c666ebe5d555",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/6//#testresult/19a9c666ebe5d555",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1645220445311,
+          "stop" : 1645220445656,
+          "duration" : 345
+        }
+      }, {
+        "uid" : "2eae9ec1c009f81e",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/5//#testresult/2eae9ec1c009f81e",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1645218979609,
+          "stop" : 1645218979963,
+          "duration" : 354
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5189ef5c5716d66c.json",
+  "parameterValues" : [ ]
+}

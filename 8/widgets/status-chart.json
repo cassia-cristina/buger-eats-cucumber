@@ -1,0 +1,111 @@
+[ {
+  "uid" : "97fb83fef890cc51",
+  "name" : "Enviar dados de cadastro com cep nao informado",
+  "time" : {
+    "start" : 1645220917720,
+    "stop" : 1645220918519,
+    "duration" : 799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a386552b0b59635f",
+  "name" : "Enviar dados de cadastro com metodo nao informado",
+  "time" : {
+    "start" : 1645220919311,
+    "stop" : 1645220920077,
+    "duration" : 766
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53505e14a051345c",
+  "name" : "Enviar dados de cadastro com sucesso",
+  "time" : {
+    "start" : 1645220890975,
+    "stop" : 1645220910075,
+    "duration" : 19100
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "34335e901171449c",
+  "name" : "Enviar dados de cadastro com cpf invalido",
+  "time" : {
+    "start" : 1645220912397,
+    "stop" : 1645220913772,
+    "duration" : 1375
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b8e33cd4dc30a80",
+  "name" : "Enviar dados de cadastro com email invalido",
+  "time" : {
+    "start" : 1645220913774,
+    "stop" : 1645220915246,
+    "duration" : 1472
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "32c9717309074c3d",
+  "name" : "Ao buscar CEP deve encontrar o endereco correto",
+  "time" : {
+    "start" : 1645220910218,
+    "stop" : 1645220912394,
+    "duration" : 2176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5189ef5c5716d66c",
+  "name" : "Enviar dados de cadastro com numero nao informado",
+  "time" : {
+    "start" : 1645220918521,
+    "stop" : 1645220919308,
+    "duration" : 787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0b4e7d1595662a7",
+  "name" : "Enviar dados de cadastro com email nao informado",
+  "time" : {
+    "start" : 1645220916828,
+    "stop" : 1645220917715,
+    "duration" : 887
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40d619c32b20a298",
+  "name" : "Enviar dados de cadastro com cnh nao nao informada",
+  "time" : {
+    "start" : 1645220920079,
+    "stop" : 1645220920845,
+    "duration" : 766
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1eacba4f288f54a1",
+  "name" : "Enviar dados de cadastro com cpf nao informado",
+  "time" : {
+    "start" : 1645220916011,
+    "stop" : 1645220916820,
+    "duration" : 809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c62b03249afcdd0",
+  "name" : "Enviar dados de cadastro com nome nao informado",
+  "time" : {
+    "start" : 1645220915248,
+    "stop" : 1645220916008,
+    "duration" : 760
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
