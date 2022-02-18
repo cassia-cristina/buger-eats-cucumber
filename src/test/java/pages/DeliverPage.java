@@ -51,7 +51,7 @@ public class DeliverPage {
     }
 
     public void uploadCnh() {
-        deliverMap.cnh.sendKeys("D:\\Cursos\\JAVA\\BugerEats\\src\\test\\resources\\images\\cnh-digital.jpg");
+        deliverMap.cnh.sendKeys("buger-eats-cucumber/src/test/resources/images/cnh-digital.jpg");
     }
 
     public String getAddress() {
