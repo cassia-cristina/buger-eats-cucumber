@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://cassia-cristina.github.io/buger-eats-cucumber",
+  "buildOrder" : 15,
+  "buildName" : "GitHub Actions Run #1866942960",
+  "buildUrl" : "https://github.com/cassia-cristina/buger-eats-cucumber/actions/runs/1866942960",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/15/"
+} ]

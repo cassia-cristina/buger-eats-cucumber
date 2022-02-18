@@ -1,0 +1,76 @@
+{
+  "uid" : "ae353523c714b7b0",
+  "name" : "Enviar dados de cadastro com numero nao informado",
+  "fullName" : "Validar cadastro de entregador.Enviar dados de cadastro com numero nao informado",
+  "historyId" : "8b4b5d5d8217ba875b31e40c78b2211f",
+  "time" : {
+    "start" : 1645225336772,
+    "stop" : 1645225337575,
+    "duration" : 803
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enviar dados de cadastro com numero nao informado"
+  }, {
+    "name" : "suite",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "host",
+    "value" : "fv-az83-158"
+  }, {
+    "name" : "thread",
+    "value" : "2838@fv-az83-158.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4381f19c93d4e6d3",
+        "reportUrl" : "https://cassia-cristina.github.io/buger-eats-cucumber/14//#testresult/4381f19c93d4e6d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1645224323272,
+          "stop" : 1645224324105,
+          "duration" : 833
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ae353523c714b7b0.json",
+  "parameterValues" : [ ]
+}
