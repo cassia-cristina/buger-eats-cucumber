@@ -1,0 +1,56 @@
+{
+  "uid" : "6ac078c97397524a",
+  "name" : "Enviar dados de cadastro com cnh nao nao informada",
+  "fullName" : "Validar cadastro de entregador.Enviar dados de cadastro com cnh nao nao informada",
+  "historyId" : "1f9b6d3cb97cae1d73336c0c511fdd82",
+  "time" : {
+    "start" : 1645224324918,
+    "stop" : 1645224325692,
+    "duration" : 774
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enviar dados de cadastro com cnh nao nao informada"
+  }, {
+    "name" : "suite",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "host",
+    "value" : "fv-az128-288"
+  }, {
+    "name" : "thread",
+    "value" : "2824@fv-az128-288.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ac078c97397524a.json",
+  "parameterValues" : [ ]
+}

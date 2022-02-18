@@ -1,0 +1,56 @@
+{
+  "uid" : "4efa26a8939d3f01",
+  "name" : "Enviar dados de cadastro com nome nao informado",
+  "fullName" : "Validar cadastro de entregador.Enviar dados de cadastro com nome nao informado",
+  "historyId" : "7738b8ceed7aa62c2a61f3834fcd1911",
+  "time" : {
+    "start" : 1645224319908,
+    "stop" : 1645224320779,
+    "duration" : 871
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "testMethod",
+    "value" : "Enviar dados de cadastro com nome nao informado"
+  }, {
+    "name" : "suite",
+    "value" : "Validar cadastro de entregador"
+  }, {
+    "name" : "host",
+    "value" : "fv-az128-288"
+  }, {
+    "name" : "thread",
+    "value" : "2824@fv-az128-288.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4efa26a8939d3f01.json",
+  "parameterValues" : [ ]
+}
